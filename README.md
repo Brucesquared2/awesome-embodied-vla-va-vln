@@ -8,6 +8,8 @@ Let's build a comprehensive resource for the robotics and AI community!
 
 *Jony and Sage*
 
+> **📦 Submodule Usage**: This repository is designed to be used as a Git submodule in MAPS-QUADCore. See [SUBMODULE.md](SUBMODULE.md) for instructions on how to include this repository as a submodule.
+
 
 ## 📌 Note on Paper Ordering
 
