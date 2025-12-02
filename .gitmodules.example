@@ -1,0 +1,9 @@
+# Example .gitmodules configuration for parent repository (MAPS-QUADCore)
+# 
+# To add this repository as a submodule to MAPS-QUADCore, use:
+# git submodule add https://github.com/Brucesquared2/awesome-embodied-vla-va-vln.git awesome-embodied-vla-va-vln
+#
+# This will create an entry like:
+# [submodule "awesome-embodied-vla-va-vln"]
+#     path = awesome-embodied-vla-va-vln
+#     url = https://github.com/Brucesquared2/awesome-embodied-vla-va-vln.git
